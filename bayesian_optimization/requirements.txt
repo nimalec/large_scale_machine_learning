@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+python-mnist
+pytest
+tqdm
+tensorflow
+ffmpeg
